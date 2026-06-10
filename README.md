@@ -60,9 +60,6 @@ AirDrum/
 └── hihat.png         # Hi-hat icon (transparent PNG)
 ```
 
-> **Note:** The `.wav` and `.png` asset files are not included in this repository.  
-> You can source free drum samples from [freesound.org](https://freesound.org) and create or download simple icons for each drum.
-
 ---
 
 ## ▶️ Running the App
